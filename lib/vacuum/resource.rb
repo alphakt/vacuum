@@ -9,6 +9,8 @@ module Vacuum
              BrowseNodeInfo.BrowseNodes.Ancestor
              BrowseNodeInfo.BrowseNodes.SalesRank
              BrowseNodeInfo.WebsiteSalesRank
+             BrowseNodes.Ancestor
+             BrowseNodes.Children
              Images.Primary.Small
              Images.Primary.Medium
              Images.Primary.Large
